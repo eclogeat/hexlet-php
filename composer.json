@@ -1,0 +1,15 @@
+{
+    "name": "tense/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Tense\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eclo",
+            "email": "eclogeat@gmail.com"
+        }
+    ],
+    "require": {}
+}
